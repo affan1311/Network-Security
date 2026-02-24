@@ -1,0 +1,4 @@
+[2026-02-21 23:19:41,470] 13 root - INFO - Data ingestion config done
+[2026-02-21 23:19:54,061] 59 root - INFO - Performed train test split with on the dataframe
+[2026-02-21 23:19:54,062] 63 root - INFO - Exporting training dataset to file: artifacts\NetworkSecurity\20260221231941\data_ingestion\ingested\train.csv
+[2026-02-21 23:19:54,365] 67 root - INFO - Exporting testing dataset to file
